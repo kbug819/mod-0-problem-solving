@@ -8,9 +8,11 @@
 # 3. iterate over the array to print each word
 # 4. use ruby method to lowercase all letters
 # Research needed:
-# 1. Method for lowercase strings
+# 1. Method for lowercase strings - found `.downcase`
 
 words = ["Jimmy", "HHjjsiue", "UYUWEOIRUWO"]
 words.each do |word|
     puts word.downcase
 end
+
+#testing the above code produced all lowercase strings
