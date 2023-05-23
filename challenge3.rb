@@ -15,3 +15,5 @@ def no_s(test)
 end
 puts no_s("tiiisssssisurioiuss")
 puts no_s("sssssssssssss.ssssssssss")
+
+#In testing this challenge, both arguments work by taking out the s in each string
