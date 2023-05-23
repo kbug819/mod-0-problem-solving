@@ -10,3 +10,8 @@
 # 3. Use puts to add an argument to the method to test effectiveness
 # Research needed - look for a way to take out a specific element in a string
 
+def no_s(test)
+    test.delete! "s"
+end
+puts no_s("tiiisssssisurioiuss")
+puts no_s("sssssssssssss.ssssssssss")
