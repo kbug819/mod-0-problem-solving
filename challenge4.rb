@@ -16,3 +16,4 @@ destinations.sort.each do |destination|
     puts "My next destination will be #{destination}!"
 end
 
+#tested the above code to show that each destination was entered into a sentence
