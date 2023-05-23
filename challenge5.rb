@@ -1,0 +1,9 @@
+1. Given a sentence with only lowercase letters, print the same sentence with the first letter
+ of every word capitalized. For example, if you were given "Turing is the best", return "Turing Is The Best" instead!
+
+ Goal: Take a string sentence and return the string with capitalized first letters of each word.
+ data types: string, ruby method
+ research needed: How to capitalize the first letter of each word
+ steps: 
+ 1. Create a variable with a string as a sentence
+ 2. utilize a Ruby method to capitalize the first letter of each word of the sentence
