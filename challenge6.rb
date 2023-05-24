@@ -6,7 +6,7 @@
 # steps:
 # -Create class for this calculations so that we can create instance methods to test code
 # -Create the following attributes: single/married, income
-# -Define a method for single taxpayers, and another method for couples
+# -Define a method for taxes owed
 # -within those methods, create if staments based on income bracket
 
 class Taxes
