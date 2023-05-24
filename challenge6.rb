@@ -77,7 +77,7 @@ end
     puts citizen2.family_status
     puts citizen2.taxes_owed
 
-    citizen3 = Taxes.new("Adams Family", 300000.00, "married")
+    citizen3 = Taxes.new("Adams Family", 150000.00, "married")
     puts citizen3.income
     puts citizen3.family_status
     puts citizen3.taxes_owed
